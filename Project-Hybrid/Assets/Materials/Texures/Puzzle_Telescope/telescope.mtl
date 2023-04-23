@@ -1,0 +1,15 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.236340372)
+
+newmtl Telescope_puzzle
+illum 1
+
+newmtl Telescope_Joint
+illum 1
+
+newmtl Telescope
+illum 1
+
+newmtl Telescope_Base
+illum 1
+

@@ -1,0 +1,34 @@
+{
+    "name": "PS4Mapping",
+    "maps": [
+        {
+            "name": "PS4",
+            "id": "4051d941-6c10-4d07-a85d-b2abf83b880b",
+            "actions": [
+                {
+                    "name": "XPress",
+                    "type": "Button",
+                    "id": "96581689-3f55-4efd-a102-57a95fe19e47",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "39d47973-1804-4010-b270-433d500e1c5e",
+                    "path": "<DualShockGamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "XPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

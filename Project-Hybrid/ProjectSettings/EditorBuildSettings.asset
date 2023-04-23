@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/ControllerGyro/Test.unity
+    guid: 6a4a48d1c2cb749bcb91f8e87269247c
+  - enabled: 0
+    path: Assets/Scenes/Menu.unity
+    guid: 1dfdb3ffce617ad4fa1be1adce80f499
+  - enabled: 0
+    path: Assets/Scenes/Yv_BlockOutScene.unity
+    guid: bae16a589d5708c4b9f64bbf4679a232
+  - enabled: 1
+    path: Assets/Scenes/Yv_BlockOutScene 1.unity
+    guid: d62fc7ec6b9322544b496e3053ed68b8
+  m_configObjects: {}
